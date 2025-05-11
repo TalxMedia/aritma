@@ -339,4 +339,6 @@ GitHub Repository Dosya Listesi
 73. robots.txt
     URL: https://api.github.com/repos/TalxMedia/aritma/git/blobs/[SHA]
 
+    bu bir sınamadır. bunu da işleyelim.
+
 Not: Bazı dosyaların SHA değerleri API yanıtında tam olarak görünmediği için [SHA] olarak işaretlenmiştir. Bu dosyaların tam URL'lerini almak için GitHub API'ye ayrıca istek yapılması gerekmektedir. 
